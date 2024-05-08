@@ -1,0 +1,19 @@
+h1{
+  font-family:cursive;
+  font-size: 50px;
+}
+q{
+  font-size:35px;
+  min-width: 400px;
+}
+.inner-text{
+  max-width: 600px;
+  text-align: center;
+}
+.text1{
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
